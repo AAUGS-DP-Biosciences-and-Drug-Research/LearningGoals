@@ -1,29 +1,31 @@
-# graduate-doc-template
+# Learning goals
 
 
-This template repository renders the `README.md` file into a styled HTML page and a downloadable PDF using a Jinja2 template and WeasyPrint. It is fully automated via GitHub Actions and designed to be reused across graduate school documentation categories.
+## Learning goals for the Doctoral Programme in Biosciences and Drug Research
 
-## 🚀 Features
-- 📄 Write content in Markdown (`README.md`)
-- 🎨 Apply custom styling via Jinja2 template
-- 🌐 Deploy as a static website via GitHub Pages
-- 🧾 Export as PDF using WeasyPrint
+- Develop a deep understanding of the chosen field, including its core theories and concepts, their methodologies, as well as their social relevance.
 
-## 🛠️ Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR-ORG/graduate-doc-template.git your-topic-doc
-   cd your-topic-doc
-   ```
+- Design and execute innovative research projects using cutting-edge methods that lead to novel insights, development of theory and concepts and to practical applications.
 
-2. Edit `README.md` with your content.
-3. Commit and push changes.
+- Build skills in problem-solving, project and time management, graphical design, scientific writing, communication, networking, teaching, supervision, leadership and other qualifications for demanding and multidisciplinary research- and expert positions in Finland and abroad.
 
-GitHub Actions will:
-- Convert the README to HTML using the Jinja2 template
-- Export the HTML as a PDF
-- Publish both to GitHub Pages
+- Prepare for diverse careers in academia, industry, the public sector, and beyond while fostering lifelong learning and leadership.
 
-## 📄 Output
-- `public/index.html` – Web version
-- `public/Document.pdf` – Downloadable PDF
+A doctoral degree unlocks many exciting career opportunities. Graduates actively shape innovations within academia and across public and private sectors, in Finland and globally. They drive breakthroughs in biotech and pharmaceutical companies, serve as influential experts in government ministries and research agencies, and lead transformative research at top-tier institutes. Additionally, they safeguard intellectual property at patent offices, steer higher education administration, and excel in scientific publishing, journalism, and entrepreneurial ventures.
+
+—
+
+## Lärandemål för doktorandprogrammet i biovetenskap och läkemedelsforskning
+
+- Att utveckla en djup förståelse för det valda området, inklusive dess centrala teorier och koncept, deras metoder samt deras samhälleliga relevans.
+
+- Att utforma och genomföra innovativa forskningsprojekt med hjälp av banbrytande metoder som leder till nya insikter, utveckling av teori och koncept samt till praktiska tillämpningar.
+
+- Att bygga upp färdigheter i problemlösning, projekt- och tidshantering, grafisk design, vetenskapligt skrivande, kommunikation, nätverkande, undervisning, handledning, ledarskap och andra kvalifikationer för krävande och tvärvetenskapliga forsknings- och expertpositioner i Finland och utomlands.
+
+- Att förbereda sig för olika karriärer inom den akademiska världen, industrin, den offentliga sektorn och utanför, samtidigt som livslångt lärande och ledarskap främjas.
+
+En doktorsexamen möjliggör många spännande karriärmöjligheter. De utexaminerade forskarna formar aktivt innovationer inom den akademiska världen och inom den offentliga och privata sektorn, i Finland och globalt. De driver genombrott i bioteknik- och läkemedelsföretag, fungerar som inflytelserika experter i ministerier och forskningsinstitut och leder transformativ forskning vid toppuniversitet. Dessutom skyddar de immateriella rättigheter vid patentbyråer, styr administrationen av högre utbildning och utmärker sig inom vetenskaplig publicering, journalistik och entreprenörskap.
+
+[Swedish version VERY much in the works still!]
+
